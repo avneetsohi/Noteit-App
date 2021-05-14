@@ -1,0 +1,2 @@
+rootProject.name = "Noteit"
+include ':app'
